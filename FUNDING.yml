@@ -1,0 +1,5 @@
+# Default funding configuration for all repositories owned by @ian-cowley
+
+github: [ian-cowley]
+buy_me_a_coffee: glaciersoftware
+custom: ['https://glaciersoftware.dev/']
